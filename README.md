@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @xiaoxinyo.
-- 👀 I’m interested in Python.
-- 🌱 I’m currently learning Python.
-- 💞️ I’m looking to collaborate on Python.
+- 👀 I’m interested in Python/C++.
+- 🌱 I’m currently learning Python/C++.
+- 💞️ I’m looking to collaborate on Python/C++.
 - 📫 How to reach me.
 - Blog: [CtrlCV博客](https://www.hack-er.cn/).
