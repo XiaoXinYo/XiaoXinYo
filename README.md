@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @xiaoxinyo.
+- 👋 Hi, I’m @XiaoXinYo.
 - 👀 I’m interested in Python/C++.
 - 🌱 I’m currently learning Python/C++.
 - 💞️ I’m looking to collaborate on Python/C++.
