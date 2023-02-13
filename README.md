@@ -1,7 +1,7 @@
 ### Hi, I’m XiaoXinYo.
 ### Language
-![Python](https://img.shields.io/badge/-Python-000000?style=flat&logo=python)
 ![C++](https://img.shields.io/badge/C++-000000?style=flat&logo=c)
+![Python](https://img.shields.io/badge/-Python-000000?style=flat&logo=python)
 ![JavaScript](https://img.shields.io/badge/-TypeScript-000000?style=flat&logo=typescript)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript)
 ### State
