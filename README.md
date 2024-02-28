@@ -5,5 +5,6 @@
 ![Python](https://img.shields.io/badge/-Python-000000?style=flat&logo=python)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-000000?style=flat&logo=typescript)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript)
+![Scala](https://img.shields.io/badge/-Scala-000000?style=flat&logo=scala)
 ## State
 ![XiaoXinYo's GitHub stats](https://github-readme-stats.vercel.app/api?username=XiaoXinYo&show_icons=true)
