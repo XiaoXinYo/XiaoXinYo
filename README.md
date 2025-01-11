@@ -5,6 +5,7 @@
 ![Python](https://img.shields.io/badge/Python-000000?logo=python)
 ![TypeScript](https://img.shields.io/badge/TypeScript-000000?logo=typescript)
 ![JavaScript](https://img.shields.io/badge/JavaScript-000000?logo=javascript)
+![HTML](https://img.shields.io/badge/HTML-000000?logo=html5)
 ![MySQL](https://img.shields.io/badge/MySQL-000000?logo=mysql)
 ![Redis](https://img.shields.io/badge/Redis-000000?logo=redis)
 ## Stats
