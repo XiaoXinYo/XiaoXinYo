@@ -16,6 +16,6 @@
 |Name|Description|
 |---|---|
 |[Easy-Reverse-Proxy](https://github.com/XiaoXinYo/Easy-Reverse-Proxy)|一款基于Node.js Express框架,开发的反向代理程序|
-|[智卦师](https://github.com/AI-Diviner/AI-Diviner-Server)|一个AI聊天助手,可以辅助解卦,塔罗占卜,八字命理|
+|[AI-Diviner](https://github.com/AI-Diviner/AI-Diviner-Server)|一个AI聊天助手,可以辅助解卦,塔罗占卜,八字命理|
 ## Stats
 ![XiaoXinYo's GitHub stats](https://github-readme-stats.vercel.app/api?show_icons=true&username=XiaoXinYo)
